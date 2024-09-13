@@ -15,9 +15,17 @@ Freelance em desenvolvimento web para Health Lemos e BTPRIME
 
 ## 📊 GitHub Stats
 
-![André Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=andtps&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andtps&show_icons=true&theme=radical" alt="André Moreira's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andtps&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andtps&layout=compact&theme=radical)
 
 
 ## 📫 Entre em contato
