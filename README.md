@@ -26,8 +26,6 @@ Freelance em desenvolvimento web para Health Lemos e BTPRIME
   </tr>
 </table>
 
-
-
 ## 📫 Entre em contato
 
 LinkedIn: www.linkedin.com/in/andré-webdev
