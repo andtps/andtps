@@ -8,7 +8,7 @@ Ferramentas: Git, GitHub
 Experiência com: Desenvolvimento de landing pages, otimização para SEO, design responsivo
 
 ## 🌱 O que estou aprendendo
-Atualmente, estou aprimorando meus conhecimentos em JavaScript,React,VeuJs e Python, além de explorar novas tecnologias para fortalecer meu portfólio.
+Atualmente, estou aprimorando meus conhecimentos em JavaScript, React, VeuJs, Python, além de explorar novas tecnologias para fortalecer meu portfólio.
 
 ## 💼 Experiência
 Freelance em desenvolvimento web para Health Lemos e BTPRIME
